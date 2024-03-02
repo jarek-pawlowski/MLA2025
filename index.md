@@ -4,7 +4,7 @@ Machine Learning Applications course, spring 2024
 [timeline and grading](rules.pdf)
 
 ## lecture notes:
-- [machine learning fundamentals](https://drive.google.com/file/d/1rTykp3Q3LSMrvouS1PCWwjdKNsW0uaJY/view?usp=sharing)
+- [machine learning fundamentals](https://drive.google.com/file/d/1S1kyjETWWD8Ajgc_X_f6nRGsYXWa7g8P/view?usp=sharing)
 <!--
 - [deep neural networks](https://drive.google.com/file/d/1V7Lf-F7PXAvxHVU7rc_7DMA0xduNcCRW/view?usp=sharing)
 - [decision trees and ensemble methods](https://drive.google.com/file/d/1mefPD7BHD-Qb7pyoCEOynCBuUdhs-Pro/view?usp=sharing)
