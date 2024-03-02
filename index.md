@@ -15,17 +15,20 @@ Machine Learning Applications course, spring 2024
 - [recurrent neural networks](https://drive.google.com/file/d/1mBBBH6bfWt3gP_y3exfIHpnuVbi8x4QB/view?usp=sharing)
 - [attention and transformers](https://drive.google.com/file/d/1PYARx84U70I_v-0UMalmJdrYfbtK9q6u/view?usp=sharing)
 - [autoencoders and GANs](https://drive.google.com/file/d/1ub8-l1em4A22HCeephXdbNPEZCBJCw3Y/view?usp=sharing)
-- [graph- and group-equvariant- neural networks](https://drive.google.com/file/d/1IAOaZSrGka6yIboazptO29aMYYnMy9Yw/view?usp=sharing)
+- [graph- and group-equivariant- neural networks](https://drive.google.com/file/d/1IAOaZSrGka6yIboazptO29aMYYnMy9Yw/view?usp=sharing)
 - [self- and semi-supervised learning, synthetic data](https://drive.google.com/file/d/1e7cKVR90kfm1oT11cy9hlBknMmGt9XC4/view?usp=sharing)
 -->
 
 ## laboratory classes:
 
-0. Preliminary problems
+1. Preliminary problems
+- simple perceptron networks
+- Universal Approximation Theorem
+
 [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/18a24dcba8536ed4d1218c9a7bbd3eab/preliminary_problems.ipynb)
 
 <!--
-1. Handwritten digits classification using MNIST dataset with Pytorch
+2. Handwritten digits classification using MNIST dataset with Pytorch
 - models: perceptron, deep fully-connected network, generic CNN
 - various activations,
 - overfitting,
@@ -35,7 +38,7 @@ Machine Learning Applications course, spring 2024
 
 ![overfitted model](Deep.png)
 
-2. ECG signal classification
+3. ECG signal classification
 - classifiers comparison: SVM, decision trees, random forests
 - feature vectors
 
@@ -43,14 +46,14 @@ Machine Learning Applications course, spring 2024
 
 ![ecg arrhythimas](signals.png)
 
-3. Image classification using deep CNNs
+4. Image classification using deep CNNs
 - VGG, ResNet
 
 [Colab notebook](advancedCNNs.ipynb)
 
 ![example results for VGG](VGGs.png)
 
-4. Regularization
+5. Regularization
 - L2 and L1 regularization implemented by hand
 
 [Colab notebook](regularization.ipynb)
@@ -58,7 +61,7 @@ Machine Learning Applications course, spring 2024
 ![regularization results](regularization.png)
 ![regularization results](regularization1.png)
 
-5. Augmentation in image processing, two separated tasks:
+6. Augmentation in image processing, two separated tasks:
 - take MNIST or CIFAR dataset, apply some simple geometric transformations (see e.g. [lecture](CV2.pdf)), and check if such dataset extending improves accuracy (take some CNN model from previous labs):
     * use simple transformations (e.g. flip, rotate, translate, scale) using [scikit-image](https://scikit-image.org/docs/dev/api/skimage.transform.html), or [open-cv](https://docs.opencv.org/4.x/da/d6e/tutorial_py_geometric_transformations.html)
     * or use [albumentations](https://github.com/albumentations-team/albumentations) library, demo: https://demo.albumentations.ai/
@@ -72,7 +75,7 @@ Machine Learning Applications course, spring 2024
 >   * https://github.com/limingcv/Photorealistic-Style-Transfer 
 >   * https://github.com/KushajveerSingh/Photorealistic-Style-Transfer
 
-6. Transformer network
+7. Transformer network
 - self-attention mechanism
 - and Transformer encoder implemented from scratch
 
@@ -80,7 +83,7 @@ Machine Learning Applications course, spring 2024
 
 ![attention map](attention_head.png)
 
-7. Convolutional GAN on MNIST
+8. Convolutional GAN on MNIST
 - generative adversarial network model: generator & discriminator 
 - training GANs
 
