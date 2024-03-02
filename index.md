@@ -1,9 +1,8 @@
-# MLA2024
 Machine Learning Applications course, spring 2024
 
 [timeline and grading](rules.pdf)
 
-## lecture notes:
+## Lecture notes:
 - [machine learning fundamentals](https://drive.google.com/file/d/1S1kyjETWWD8Ajgc_X_f6nRGsYXWa7g8P/view?usp=sharing)
 
 <!--
@@ -19,12 +18,11 @@ Machine Learning Applications course, spring 2024
 - [self- and semi-supervised learning, synthetic data](https://drive.google.com/file/d/1e7cKVR90kfm1oT11cy9hlBknMmGt9XC4/view?usp=sharing)
 -->
 
-## laboratory classes:
+## Laboratory classes:
 
 1. Preliminary problems
 - simple perceptron networks
 - Universal Approximation Theorem
-
 [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/18a24dcba8536ed4d1218c9a7bbd3eab/preliminary_problems.ipynb)
 
 <!--
