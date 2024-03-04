@@ -23,6 +23,7 @@ Machine Learning Applications course, spring 2024
 1. Preliminary problems
 - simple perceptron networks
 - Universal Approximation Theorem
+
 [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/18a24dcba8536ed4d1218c9a7bbd3eab/preliminary_problems.ipynb)
 
 <!--
