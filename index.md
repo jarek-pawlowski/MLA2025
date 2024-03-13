@@ -26,7 +26,7 @@ Machine Learning Applications course, spring 2024
 
 [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/18a24dcba8536ed4d1218c9a7bbd3eab/preliminary_problems.ipynb)
 
-<!--
+
 2. Handwritten digits classification using MNIST dataset with Pytorch
 - models: perceptron, deep fully-connected network, generic CNN
 - various activations,
@@ -37,6 +37,7 @@ Machine Learning Applications course, spring 2024
 
 ![overfitted model](Deep.png)
 
+<!--
 3. ECG signal classification
 - classifiers comparison: SVM, decision trees, random forests
 - feature vectors
