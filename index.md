@@ -34,7 +34,7 @@ Machine Learning Applications course, spring 2024
 
 [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/a5177dbf879b7e1f6c0f1ec1f698a73e/mnist_in_3_flavours.ipynb)
 
-![overfitted model](Deep.png)
+![overfitted model](/Deep.png)
 
 <!--
 3. ECG signal classification
