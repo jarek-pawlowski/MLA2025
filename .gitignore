@@ -1,6 +1,3 @@
 .DS_Store
-*.ipynb
 *.pptx
 *.xlsx
-!preliminary_problems.ipynb
-!mnist_in_3_flavours.ipynb

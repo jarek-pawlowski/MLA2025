@@ -4,7 +4,6 @@ Machine Learning Applications course, spring 2024
 
 ## lecture notes:
 - [machine learning fundamentals](https://drive.google.com/file/d/1S1kyjETWWD8Ajgc_X_f6nRGsYXWa7g8P/view?usp=sharing)
-
 <!--
 - [deep neural networks](https://drive.google.com/file/d/1V7Lf-F7PXAvxHVU7rc_7DMA0xduNcCRW/view?usp=sharing)
 - [decision trees and ensemble methods](https://drive.google.com/file/d/1mefPD7BHD-Qb7pyoCEOynCBuUdhs-Pro/view?usp=sharing)
@@ -33,7 +32,7 @@ Machine Learning Applications course, spring 2024
 - overfitting,
 - regularization, early stopping
 
-[Colab notebook](mnist_in_3_flavours.ipynb)
+[Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/a5177dbf879b7e1f6c0f1ec1f698a73e/mnist_in_3_flavours.ipynb)
 
 ![overfitted model](Deep.png)
 
