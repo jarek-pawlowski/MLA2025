@@ -5,9 +5,9 @@ Machine Learning Applications course, spring 2024
 ## lecture notes:
 - [machine learning fundamentals](https://drive.google.com/file/d/1S1kyjETWWD8Ajgc_X_f6nRGsYXWa7g8P/view?usp=sharing)
 - [deep neural networks](https://drive.google.com/file/d/1cNBT1Np76QPU1lcnMNaWRd_prHCJ8Re6/view?usp=sharing)
+- [decision trees and ensemble methods](https://drive.google.com/file/d/1yXvrphpWBYCJ07F0NDYfk-KBtUtF1Pji/view?usp=sharing)
 
 <!--
-- [decision trees and ensemble methods](https://drive.google.com/file/d/1mefPD7BHD-Qb7pyoCEOynCBuUdhs-Pro/view?usp=sharing)
 - [convolutional neural networks](https://drive.google.com/file/d/1fGrlxENrbOEAaq0pUP7b2rcaa-7Ioxs8/view?usp=sharing)
 - [computer vision: traditional methods](https://drive.google.com/file/d/1n2MOt2PkNl_4-wGW3q9o95zLqPaF3WYO/view?usp=sharing)
 - [computer vision: deep-learning methods](https://drive.google.com/file/d/1wiWTQniLMvZVWVqxcSsoNdE57vneVf-2/view?usp=sharing)
@@ -31,16 +31,14 @@ Machine Learning Applications course, spring 2024
 - regularization, early stopping
 - [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/a5177dbf879b7e1f6c0f1ec1f698a73e/mnist_in_3_flavours.ipynb)
 ![overfitted model](/Deep.png)
-
-<!--
 3. ECG signal classification
 - classifiers comparison: SVM, decision trees, random forests
 - feature vectors
-
-[Colab notebook](ecg_classification.ipynb)
-
+- scikit-learn library
+- [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/a504de96d401a02556f0cea58f8fd21a/ecg_classification.ipynb)
 ![ecg arrhythimas](signals.png)
 
+<!--
 4. Image classification using deep CNNs
 - VGG, ResNet
 
