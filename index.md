@@ -37,15 +37,12 @@ Machine Learning Applications course, spring 2024
 - scikit-learn library
 - [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/a504de96d401a02556f0cea58f8fd21a/ecg_classification.ipynb)
 ![ecg arrhythimas](signals.png)
-
-<!--
 4. Image classification using deep CNNs
 - VGG, ResNet
-
-[Colab notebook](advancedCNNs.ipynb)
-
+[Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/56f3f4c05d6bb54a2723edbf4109a678/advancedcnns.ipynb)
 ![example results for VGG](VGGs.png)
 
+<!--
 5. Regularization
 - L2 and L1 regularization implemented by hand
 
