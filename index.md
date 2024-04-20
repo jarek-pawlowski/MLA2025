@@ -26,8 +26,8 @@ Machine Learning Applications course, spring 2024
 - [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/18a24dcba8536ed4d1218c9a7bbd3eab/preliminary_problems.ipynb)
 2. Handwritten digits classification using MNIST dataset with Pytorch
 - models: perceptron, deep fully-connected network, generic CNN
-- various activations,
-- overfitting,
+- various activations
+- overfitting
 - regularization, early stopping
 - [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/a5177dbf879b7e1f6c0f1ec1f698a73e/mnist_in_3_flavours.ipynb)
 ![overfitted model](/Deep.png)
@@ -37,9 +37,11 @@ Machine Learning Applications course, spring 2024
 - scikit-learn library
 - [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/a504de96d401a02556f0cea58f8fd21a/ecg_classification.ipynb)
 ![ecg arrhythimas](signals.png)
-4. Image classification using deep CNNs
-- VGG, ResNet
-[Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/56f3f4c05d6bb54a2723edbf4109a678/advancedcnns.ipynb)
+4. Deep CNNs
+- VGG 
+- degradation problem and ResNets
+- model saving and visualization
+- [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/56f3f4c05d6bb54a2723edbf4109a678/advancedcnns.ipynb)
 ![example results for VGG](VGGs.png)
 
 <!--
