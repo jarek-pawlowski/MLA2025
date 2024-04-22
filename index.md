@@ -6,9 +6,9 @@ Machine Learning Applications course, spring 2024
 - [machine learning fundamentals](https://drive.google.com/file/d/1S1kyjETWWD8Ajgc_X_f6nRGsYXWa7g8P/view?usp=sharing)
 - [deep neural networks](https://drive.google.com/file/d/1cNBT1Np76QPU1lcnMNaWRd_prHCJ8Re6/view?usp=sharing)
 - [decision trees and ensemble methods](https://drive.google.com/file/d/1yXvrphpWBYCJ07F0NDYfk-KBtUtF1Pji/view?usp=sharing)
+- [convolutional neural networks](https://drive.google.com/file/d/1MMwRDtjgv43sQ2_v9wZ9EqPUbJfUIPKJ/view?usp=sharing)
 
 <!--
-- [convolutional neural networks](https://drive.google.com/file/d/1fGrlxENrbOEAaq0pUP7b2rcaa-7Ioxs8/view?usp=sharing)
 - [computer vision: traditional methods](https://drive.google.com/file/d/1n2MOt2PkNl_4-wGW3q9o95zLqPaF3WYO/view?usp=sharing)
 - [computer vision: deep-learning methods](https://drive.google.com/file/d/1wiWTQniLMvZVWVqxcSsoNdE57vneVf-2/view?usp=sharing)
 - [recurrent neural networks](https://drive.google.com/file/d/1mBBBH6bfWt3gP_y3exfIHpnuVbi8x4QB/view?usp=sharing)
