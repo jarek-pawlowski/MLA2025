@@ -43,16 +43,13 @@ Machine Learning Applications course, spring 2024
 - model saving and visualization
 - [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/56f3f4c05d6bb54a2723edbf4109a678/advancedcnns.ipynb)
 ![example results for VGG](VGGs.png)
-
-<!--
 5. Regularization
 - L2 and L1 regularization implemented by hand
-
-[Colab notebook](regularization.ipynb)
-
+[Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/3ef2fb14caa3ade580d5cd3e23464c1b/regularization.ipynb)
 ![regularization results](regularization.png)
 ![regularization results](regularization1.png)
 
+<!--
 6. Augmentation in image processing, two separated tasks:
 - take MNIST or CIFAR dataset, apply some simple geometric transformations (see e.g. [lecture](CV2.pdf)), and check if such dataset extending improves accuracy (take some CNN model from previous labs):
     * use simple transformations (e.g. flip, rotate, translate, scale) using [scikit-image](https://scikit-image.org/docs/dev/api/skimage.transform.html), or [open-cv](https://docs.opencv.org/4.x/da/d6e/tutorial_py_geometric_transformations.html)
