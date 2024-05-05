@@ -47,7 +47,6 @@ Machine Learning Applications course, spring 2024
 - L2 and L1 regularization implemented by hand
 - [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/3ef2fb14caa3ade580d5cd3e23464c1b/regularization.ipynb)
 ![regularization results](regularization.png)
-![regularization results](regularization1.png)
 
 <!--
 6. Augmentation in image processing, two separated tasks:
