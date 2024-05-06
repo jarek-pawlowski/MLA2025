@@ -18,6 +18,7 @@ Machine Learning Applications course, spring 2024
 - [self- and semi-supervised learning, synthetic data](https://drive.google.com/file/d/1e7cKVR90kfm1oT11cy9hlBknMmGt9XC4/view?usp=sharing)
 -->
 
+
 ## laboratory classes:
 
 1. Preliminary problems
