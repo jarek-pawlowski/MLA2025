@@ -8,9 +8,9 @@ Machine Learning Applications course, spring 2024
 - [decision trees and ensemble methods](https://drive.google.com/file/d/1yXvrphpWBYCJ07F0NDYfk-KBtUtF1Pji/view?usp=sharing)
 - [convolutional neural networks](https://drive.google.com/file/d/1MMwRDtjgv43sQ2_v9wZ9EqPUbJfUIPKJ/view?usp=sharing)
 - [computer vision: traditional methods](https://drive.google.com/file/d/1kEe73ZhOLI28Nb5Fj54QynA4nolb0-yH/view?usp=sharing)
+- [computer vision: deep-learning methods](https://drive.google.com/file/d/1yt_euw4TQZT1g1OTepu9vtJ9cYrnbObi/view?usp=sharing)
 
 <!--
-- [computer vision: deep-learning methods](https://drive.google.com/file/d/1wiWTQniLMvZVWVqxcSsoNdE57vneVf-2/view?usp=sharing)
 - [recurrent neural networks](https://drive.google.com/file/d/1mBBBH6bfWt3gP_y3exfIHpnuVbi8x4QB/view?usp=sharing)
 - [attention and transformers](https://drive.google.com/file/d/1PYARx84U70I_v-0UMalmJdrYfbtK9q6u/view?usp=sharing)
 - [autoencoders and GANs](https://drive.google.com/file/d/1ub8-l1em4A22HCeephXdbNPEZCBJCw3Y/view?usp=sharing)
