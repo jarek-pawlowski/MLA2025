@@ -51,7 +51,7 @@ Machine Learning Applications course, spring 2024
 6. Transformer network
 - self-attention mechanism
 - and Transformer encoder implemented from scratch
-[Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/6d17ed56c7f70a912f7ae3f9a72070f1/simple_transformer.ipynb)
+- [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/6d17ed56c7f70a912f7ae3f9a72070f1/simple_transformer.ipynb)
 ![attention map](attention_head.png)
 
 <!--
