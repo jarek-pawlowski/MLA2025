@@ -9,10 +9,10 @@ Machine Learning Applications course, spring 2024
 - [convolutional neural networks](https://drive.google.com/file/d/1MMwRDtjgv43sQ2_v9wZ9EqPUbJfUIPKJ/view?usp=sharing)
 - [computer vision: traditional methods](https://drive.google.com/file/d/1kEe73ZhOLI28Nb5Fj54QynA4nolb0-yH/view?usp=sharing)
 - [computer vision: deep-learning methods](https://drive.google.com/file/d/1yt_euw4TQZT1g1OTepu9vtJ9cYrnbObi/view?usp=sharing)
+- [recurrent neural networks](https://drive.google.com/file/d/1PzNbIF8FpS0-Y_OzsKTIUb_HdOCGxQFd/view?usp=sharing)
+- [attention and transformers](https://drive.google.com/file/d/1HDhGINMS3Aa1izvfYfjWPr7UOTeBhqor/view?usp=sharing)
 
 <!--
-- [recurrent neural networks](https://drive.google.com/file/d/1mBBBH6bfWt3gP_y3exfIHpnuVbi8x4QB/view?usp=sharing)
-- [attention and transformers](https://drive.google.com/file/d/1PYARx84U70I_v-0UMalmJdrYfbtK9q6u/view?usp=sharing)
 - [autoencoders and GANs](https://drive.google.com/file/d/1ub8-l1em4A22HCeephXdbNPEZCBJCw3Y/view?usp=sharing)
 - [graph- and group-equivariant- neural networks](https://drive.google.com/file/d/1IAOaZSrGka6yIboazptO29aMYYnMy9Yw/view?usp=sharing)
 - [self- and semi-supervised learning, synthetic data](https://drive.google.com/file/d/1e7cKVR90kfm1oT11cy9hlBknMmGt9XC4/view?usp=sharing)
@@ -48,9 +48,14 @@ Machine Learning Applications course, spring 2024
 - L2 and L1 regularization implemented by hand
 - [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/3ef2fb14caa3ade580d5cd3e23464c1b/regularization.ipynb)
 ![regularization results](regularization.png)
+6. Transformer network
+- self-attention mechanism
+- and Transformer encoder implemented from scratch
+[Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/6d17ed56c7f70a912f7ae3f9a72070f1/simple_transformer.ipynb)
+![attention map](attention_head.png)
 
 <!--
-6. Augmentation in image processing, two separated tasks:
+7. Augmentation in image processing, two separated tasks:
 - take MNIST or CIFAR dataset, apply some simple geometric transformations (see e.g. [lecture](CV2.pdf)), and check if such dataset extending improves accuracy (take some CNN model from previous labs):
     * use simple transformations (e.g. flip, rotate, translate, scale) using [scikit-image](https://scikit-image.org/docs/dev/api/skimage.transform.html), or [open-cv](https://docs.opencv.org/4.x/da/d6e/tutorial_py_geometric_transformations.html)
     * or use [albumentations](https://github.com/albumentations-team/albumentations) library, demo: https://demo.albumentations.ai/
@@ -63,14 +68,6 @@ Machine Learning Applications course, spring 2024
 > * code:
 >   * https://github.com/limingcv/Photorealistic-Style-Transfer 
 >   * https://github.com/KushajveerSingh/Photorealistic-Style-Transfer
-
-7. Transformer network
-- self-attention mechanism
-- and Transformer encoder implemented from scratch
-
-[Colab notebook](simple_Transformer.ipynb)
-
-![attention map](attention_head.png)
 
 8. Convolutional GAN on MNIST
 - generative adversarial network model: generator & discriminator 
