@@ -53,9 +53,14 @@ Machine Learning Applications course, spring 2024
 - and Transformer encoder implemented from scratch
 - [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/6d17ed56c7f70a912f7ae3f9a72070f1/simple_transformer.ipynb)
 ![attention map](attention_head.png)
+7. Convolutional GAN on MNIST
+- generative adversarial network model: generator & discriminator 
+- training GANs
+[Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/5d1d3c175a96fc5c17f6180849bc78f4/gan_on_mnist.ipynb)
+![example results for GAN model](generated_mnist.png)
 
 <!--
-7. Augmentation in image processing, two separated tasks:
+8. Augmentation in image processing, two separated tasks:
 - take MNIST or CIFAR dataset, apply some simple geometric transformations (see e.g. [lecture](CV2.pdf)), and check if such dataset extending improves accuracy (take some CNN model from previous labs):
     * use simple transformations (e.g. flip, rotate, translate, scale) using [scikit-image](https://scikit-image.org/docs/dev/api/skimage.transform.html), or [open-cv](https://docs.opencv.org/4.x/da/d6e/tutorial_py_geometric_transformations.html)
     * or use [albumentations](https://github.com/albumentations-team/albumentations) library, demo: https://demo.albumentations.ai/
@@ -68,14 +73,6 @@ Machine Learning Applications course, spring 2024
 > * code:
 >   * https://github.com/limingcv/Photorealistic-Style-Transfer 
 >   * https://github.com/KushajveerSingh/Photorealistic-Style-Transfer
-
-8. Convolutional GAN on MNIST
-- generative adversarial network model: generator & discriminator 
-- training GANs
-
-[Colab notebook](GAN_on_MNIST.ipynb)
-
-![example results for GAN model](generated_mnist.png)
 -->
 
 
