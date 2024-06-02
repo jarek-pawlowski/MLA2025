@@ -12,11 +12,8 @@ Machine Learning Applications course, spring 2024
 - [recurrent neural networks](https://drive.google.com/file/d/1PzNbIF8FpS0-Y_OzsKTIUb_HdOCGxQFd/view?usp=sharing)
 - [attention and transformers](https://drive.google.com/file/d/1HDhGINMS3Aa1izvfYfjWPr7UOTeBhqor/view?usp=sharing)
 - [autoencoders and GANs](https://drive.google.com/file/d/1caiZ2nRpLmQKSfgPQ5cKuf7sTgbCLwe8/view?usp=sharing)
-
-<!--
-- [graph- and group-equivariant- neural networks](https://drive.google.com/file/d/1IAOaZSrGka6yIboazptO29aMYYnMy9Yw/view?usp=sharing)
-- [self- and semi-supervised learning, synthetic data](https://drive.google.com/file/d/1e7cKVR90kfm1oT11cy9hlBknMmGt9XC4/view?usp=sharing)
---> 
+- [graph- and group-equivariant- neural networks](https://drive.google.com/file/d/1Jh8SF9v-q0upcX0o_r71mATTQ_435t-f/view?usp=sharing)
+- [self- and semi-supervised learning, synthetic data](https://drive.google.com/file/d/1wQAeuVztspOQyLF-lyVQEj3kEFd66Lr_/view?usp=sharing)
 
 
 ## laboratory classes:
