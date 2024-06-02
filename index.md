@@ -17,7 +17,6 @@ Machine Learning Applications course, spring 2024
 
 
 ## laboratory classes:
-
 1. Preliminary problems
 - simple perceptron networks
 - Universal Approximation Theorem
