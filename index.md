@@ -56,7 +56,7 @@ Machine Learning Applications course, spring 2024
 7. Convolutional GAN on MNIST
 - generative adversarial network model: generator & discriminator 
 - training GANs
-[Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/5d1d3c175a96fc5c17f6180849bc78f4/gan_on_mnist.ipynb)
+- [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/5d1d3c175a96fc5c17f6180849bc78f4/gan_on_mnist.ipynb)
 ![example results for GAN model](generated_mnist.png)
 
 <!--
