@@ -1,4 +1,4 @@
-Machine Learning Applications course, spring 2024
+Machine Learning Applications course, spring 2025
 
 [timeline and grading](rules.pdf)
 
