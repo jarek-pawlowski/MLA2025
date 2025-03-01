@@ -72,5 +72,5 @@ Machine Learning Applications course, spring 2025
 -->
 
 
-## proposed seminars topics
-- [list of proposed topics](seminar_topics.pdf)
+## proposed seminar/project topics
+- [list of proposed topics](seminar_project_topics.pdf)
